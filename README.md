@@ -1,7 +1,5 @@
 # 🧠 Brain Tumor Segmentation Using U‑Net
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)  
-*(Replace with your actual Streamlit Cloud URL after deployment)*
 
 ## 📌 Overview
 This project implements a **U‑Net** convolutional neural network to automatically segment low‑grade gliomas (brain tumors) from MRI scans.  
